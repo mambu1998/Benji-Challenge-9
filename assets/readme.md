@@ -70,4 +70,4 @@ Use Unit testing with Jest.
 # Contact Information
 
 - GitHub Username: Benji
-- Contact Email: Benji@gmail.com
+- Contact Email: mambufrancis1998@gmail.com
