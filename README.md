@@ -8,7 +8,7 @@ I created a command-line application that dynamically generates a professional R
 
 node index.js
 
-Here is a vide link: <a href="Add a video Gmail link here" target="_blank">Link</a> to a video walkthrough that demonstrates the functionality of my application.
+Here is a vide link: <a href="Add a video google drive link here" target="_blank">Link</a> to a video walkthrough that describes the functionality of my application.
 
 # Application Running in Command Line
 
@@ -71,4 +71,4 @@ THEN I am taken to the corresponding section of the README
 # Contributors
 
 - Benji Francis
-- GitHub: "Link to go here"
+- GitHub: "https://github.com/mambu1998/Benji-Challenge-9"
