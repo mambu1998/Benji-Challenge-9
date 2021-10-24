@@ -8,7 +8,7 @@ I created a command-line application that dynamically generates a professional R
 
 node index.js
 
-Here is a vide link: <a href="Add a video google drive link here" target="_blank">Link</a> to a video walkthrough that describes the functionality of my application.
+Here is a vide link: <a href="https://drive.google.com/file/d/1M5x5s6Kx1bghMpTmzFPTY4SIR2pJmy-O/view?usp=sharing" target="_blank">Link</a> to a video walkthrough that describes the functionality of my application.
 
 # Application Running in Command Line
 

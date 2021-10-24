@@ -1,11 +1,11 @@
 
 # Project Title
-Node.js Challenge: Professional README Generator
+anything
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 Node.js Challenge: Professional README Generator
 
 # Description
- Great Readme.md
+anything
 
 - [For-Installation](-----Installation Guide-----)
 - [For-Usage](-----Usage Guide-----)
@@ -18,7 +18,7 @@ Node.js Challenge: Professional README Generator
 npm start
 
 # Usage
-clone the repo and move to the folder then install the pacakges then node.js
+anything
 Use NPM install
 
 - Clone the repo
@@ -60,15 +60,15 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 # Contributing 
-Email me
+email me
 Email me
 
 # Tests
-Use Unit Testing With Jest
+anything
 Use Unit testing with Jest
 
 
 # Contact Information 
-* GitHub Username: Mambu1998
-* Contact Email: mambufrancis1998@gmail.com
+* GitHub Username: Mambu
+* Contact Email: hu@gmail.com
 
