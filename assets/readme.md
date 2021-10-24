@@ -65,7 +65,7 @@ Email me
 
 # Tests
 
-Use Unit testing with Jest
+Use Unit testing with Jest.
 
 # Contact Information
 
